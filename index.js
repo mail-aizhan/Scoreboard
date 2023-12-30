@@ -45,7 +45,7 @@
            
             let player = {
                  name: "Per",
-                 chips:145
+                 chips:200
             }
 
             let playerEl= document.getElementById("player-el")
